@@ -1,0 +1,126 @@
+2023-08-28 17:33:02,026 root INFO this is my message
+2023-08-28 17:33:02,027 root ERROR this is my error messsage
+2023-08-28 17:33:02,027 root CRITICAL this is critical
+2023-08-28 17:37:16,635 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:37:16,636 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:37:16,636 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:37:16,636 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:37:16,636 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:37:16,636 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:37:16,636 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:37:16,636 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:13,050 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:13,051 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:13,051 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:13,051 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:13,051 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:13,051 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:13,051 root INFO i amd inside if trying to check list type
+2023-08-28 17:39:13,051 root INFO checking list inside list type
+2023-08-28 17:39:13,051 root INFO chekking j 
+2023-08-28 17:39:13,051 root INFO checking list inside list type
+2023-08-28 17:39:13,051 root INFO chekking j 
+2023-08-28 17:39:13,051 root INFO checking list inside list type
+2023-08-28 17:39:13,051 root INFO chekking j 
+2023-08-28 17:39:13,051 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:13,051 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:20,528 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:20,529 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:20,529 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:20,529 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:20,529 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:20,529 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:20,529 root INFO i amd inside if trying to check list type
+2023-08-28 17:39:20,529 root INFO checking list inside list type
+2023-08-28 17:39:20,529 root INFO chekking j 
+2023-08-28 17:39:20,529 root INFO checking list inside list type
+2023-08-28 17:39:20,529 root INFO chekking j 
+2023-08-28 17:39:20,529 root INFO checking list inside list type
+2023-08-28 17:39:20,529 root INFO chekking j 
+2023-08-28 17:39:20,529 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:20,529 root INFO we are iterating through our list and local variable is i 
+2023-08-28 17:39:35,339 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-08-28 17:39:35,343 Comm WARNING No such comm: d72dab59-2844-4eb0-b3d2-83663a8a02da
+2023-08-28 17:39:35,343 Comm DEBUG Current comms: []
+2023-08-28 17:41:16,005 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-08-28 17:41:16,007 Comm WARNING No such comm: f67345de-2043-4da2-985f-8a35e3083980
+2023-08-28 17:41:16,008 Comm DEBUG Current comms: []
+2023-08-28 17:42:11,293 root INFO we are iterating through our list and local variable is i [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:42:11,293 root INFO we are iterating through our list and local variable is i [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:42:11,293 root INFO we are iterating through our list and local variable is i [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:42:11,293 root INFO we are iterating through our list and local variable is i [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:42:11,294 root INFO we are iterating through our list and local variable is i [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:42:11,294 root INFO we are iterating through our list and local variable is i [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:42:11,294 root INFO i amd inside if trying to check list type[2, 3, 4]
+2023-08-28 17:42:11,294 root INFO checking list inside list type
+2023-08-28 17:42:11,294 root INFO chekking j 
+2023-08-28 17:42:11,294 root INFO checking list inside list type
+2023-08-28 17:42:11,294 root INFO chekking j 
+2023-08-28 17:42:11,294 root INFO checking list inside list type
+2023-08-28 17:42:11,294 root INFO chekking j 
+2023-08-28 17:42:11,294 root INFO we are iterating through our list and local variable is i [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:42:11,294 root INFO we are iterating through our list and local variable is i [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:45:08,309 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:45:08,310 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:45:08,310 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:45:08,310 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:45:08,310 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:45:08,310 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:45:08,310 root INFO i amd inside if trying to check list type[2, 3, 4]
+2023-08-28 17:45:08,310 root INFO checking list inside list type
+2023-08-28 17:45:08,310 root INFO chekking j 
+2023-08-28 17:45:08,310 root INFO checking list inside list type
+2023-08-28 17:45:08,310 root INFO chekking j 
+2023-08-28 17:45:08,310 root INFO checking list inside list type
+2023-08-28 17:45:08,310 root INFO chekking j 
+2023-08-28 17:45:08,310 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:45:08,310 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:50:54,841 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:50:54,841 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:50:54,841 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:50:54,841 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:50:54,841 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:50:54,841 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:50:54,841 root INFO i amd inside if trying to check list type[2, 3, 4]
+2023-08-28 17:50:54,841 root INFO checking list inside list type
+2023-08-28 17:50:54,841 root INFO chekking j 
+2023-08-28 17:50:54,841 root INFO checking list inside list type
+2023-08-28 17:50:54,841 root INFO chekking j 
+2023-08-28 17:50:54,842 root INFO checking list inside list type
+2023-08-28 17:50:54,842 root INFO chekking j 
+2023-08-28 17:50:54,842 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:50:54,842 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:07,063 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:07,063 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:07,063 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:07,064 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:07,064 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:07,064 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:07,064 root INFO i amd inside if trying to check list type[2, 3, 4]
+2023-08-28 17:51:07,064 root INFO checking list inside list type
+2023-08-28 17:51:07,064 root INFO chekking j 
+2023-08-28 17:51:07,064 root INFO checking list inside list type
+2023-08-28 17:51:07,064 root INFO chekking j 
+2023-08-28 17:51:07,064 root INFO checking list inside list type
+2023-08-28 17:51:07,064 root INFO chekking j 
+2023-08-28 17:51:07,064 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:07,064 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:28,774 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:28,775 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:28,775 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:28,775 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:28,775 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:28,775 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:28,775 root INFO i amd inside if trying to check list type[2, 3, 4]
+2023-08-28 17:51:28,775 root INFO checking list inside list type
+2023-08-28 17:51:28,776 root INFO chekking j 
+2023-08-28 17:51:28,776 root INFO checking list inside list type
+2023-08-28 17:51:28,776 root INFO chekking j 
+2023-08-28 17:51:28,776 root INFO checking list inside list type
+2023-08-28 17:51:28,776 root INFO chekking j 
+2023-08-28 17:51:28,776 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:28,776 root INFO we are iterating through our list and local variable is [1, 2, 3, 4, 4, [2, 3, 4], 'ayush', 'jha']
+2023-08-28 17:51:28,776 root INFO my final result is int [1, 2, 3, 4, 4, 2, 3, 4] and str ['ayush', 'jha']
+2023-08-28 17:59:34,049 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-08-28 17:59:34,057 Comm WARNING No such comm: 02b7360e-f9ce-4504-b2d1-33de035a46b1
+2023-08-28 17:59:34,058 Comm DEBUG Current comms: []
